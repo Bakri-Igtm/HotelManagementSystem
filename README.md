@@ -13,7 +13,7 @@ Utilize the "CHECK OUT" feature to remove a guest from the system by entering th
 4. Exiting the Application
 Click the "EXIT" button to close the Solarkin Hotel Management Suite application.
 5. Getting the guests' information
-Open the Guenst_info python file and run it. Enter the guest's room number to check for the information
+Open the Get Info python file and run it. Enter the guest's room number to check for the information
 
 Usage
 Upon launching the application, you will be greeted with the Solarkin Hotel logo and a welcoming interface.
